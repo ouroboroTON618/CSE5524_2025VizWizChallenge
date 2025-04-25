@@ -29,4 +29,3 @@
 
 ## Output
 - It should generate 5 images with its question, and a mask over the object that answers the question
-- The mask on top is a result of the trained advanced model
