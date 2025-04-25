@@ -7,6 +7,11 @@
 - model.py: advanced model architecture
 - predict.ipynb: jupyternotebook to run model with few examples
 
+## Before running:
+- Download the trained model .pth file at: https://drive.google.com/file/d/1oaskN2klTiIk9tRfMROS4ZH7yaoqqb2d/view?usp=sharing
+- It will take around 6 minutes to download (couldnt commit to git because is large)
+- Place it inside directory called "trained_model"
+
 ## How to run
 1. Run command: pip install -r requirements.txt
 2. Open the jupyter notebook called predict.ipynb
