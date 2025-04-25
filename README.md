@@ -1,7 +1,7 @@
 # CSE5524_2025VizWizChallenge
 
 ## Structure:
-- data/test folder: Containing all .jpg images
+- data/test: Containing all .jpg images
 - data/test_grounding.json: image id - question pairs
 - trained_model/best_advanced_model.pth: trained model
 - model.py: advanced model architecture
