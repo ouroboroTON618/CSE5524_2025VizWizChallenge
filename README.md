@@ -29,3 +29,6 @@
 
 ## Output
 - It should generate 5 images with its question, and a mask over the object that answers the question
+
+  ![image](https://github.com/user-attachments/assets/d55a36de-1d76-4d0d-ac2c-87100582ebff)
+
